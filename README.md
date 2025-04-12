@@ -5,7 +5,7 @@
 ### 🛠 Steps:
 ```bash
 npx create-react-app project-name
-cd my-app
+cd project-name
 npm start 
 ```
 
@@ -14,7 +14,7 @@ npm start
 ### 🛠 Steps:
 ```bash
 npm create vite@latest project-name -- --template react
-cd my-app
+cd project-name
 npm install
 npm run dev
 ```
