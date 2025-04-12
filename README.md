@@ -6,8 +6,8 @@
 ```bash
 npx create-react-app project-name
 cd my-app
-npm start ```
-
+npm start 
+```
 
 ## 📦 2. Using Vite
 
@@ -17,4 +17,4 @@ npm create vite@latest project-name -- --template react
 cd my-app
 npm install
 npm run dev
-
+```
