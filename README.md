@@ -6,7 +6,8 @@
 ```bash
 npx create-react-app project-name
 cd my-app
-npm start
+npm start ```
+
 
 ## 📦 2. Using Vite
 
