@@ -1,8 +1,17 @@
-# React + Vite
+# React project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 1. Create React App
 
-Currently, two official plugins are available:
+npx create-react-app my-app
+cd my-app
+npm start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 2. React + Vite
+npm create vite@latest my-app -- --template react
+cd my-app
+npm install
+npm run dev
+
+
+#If you're starting a new React project, Vite is usually the better choice
+
