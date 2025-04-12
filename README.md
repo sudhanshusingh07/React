@@ -1,17 +1,9 @@
-# React project
+# 🚀 React Project Setup Guide
 
-# 1. Create React App
+## 📦 1. Using Create React App 
 
+### 🛠 Steps:
+```bash
 npx create-react-app my-app
 cd my-app
 npm start
-
-# 2. React + Vite
-npm create vite@latest my-app -- --template react
-cd my-app
-npm install
-npm run dev
-
-
-#If you're starting a new React project, Vite is usually the better choice
-
