@@ -1,5 +1,12 @@
 # What is React?
 
+- React is a JavaScript library that focuses on declarative syntax and 
+virtualization of DOM.
+- It is an open-source library, developed by Facebook in 2013.
+- It provides a declarative and efficient way to create interactive UI 
+components.
+- It allows building more reusable and maintainable UI components with ease.
+
 # 🚀 React Project Setup Guide
 
 ## 📦 1. Using Create React App 
