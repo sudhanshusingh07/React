@@ -10,13 +10,13 @@ components.
 # Why React? SPA vs Traditional HTML
 - Traditional Page Lifecycle
 
- Once the user accesses the page and performs any kind of action on that page, the page gets 
-reloaded with the changes that were done on the server-side.
+  Once the user accesses the page and performs any kind of action on that page, the page gets 
+   reloaded with the changes that were done on the server-side.
 
 - Single Page Application (SPA) Lifecycle
 
    Once the user accesses the page and performs any kind of action on that page, they get an 
-almost-instant reaction from the page (think of Facebook, when you comment on someone's post)
+  almost-instant reaction from the page (think of Facebook, when you comment on someone's post)
 # 🚀 React Project Setup Guide
 
 ## 📦 1. Using Create React App 
