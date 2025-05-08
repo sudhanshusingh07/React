@@ -38,6 +38,12 @@ components.
 - They allow data to flow from parent to child.
 - Props are read-only and help make 
 - components reusable.
+
+ ## PropTypes
+- PropTypes help validate the type of props a component receives.
+- Prevent bugs by catching incorrect or missing props.
+- Makes it clear what props a component 
+- expects — helpful for teams and during maintenance.
 # 🚀 React Project Setup Guide
 
 ## 📦 1. Using Create React App 
