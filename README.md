@@ -30,7 +30,14 @@ components.
    performance
 # Virtual DOM & Rendering Flow
   ![VDom](img/VDom.png)
-  
+
+
+ # Props & PropTypes
+## Props (Properties)
+- Props are inputs to a React component.
+- They allow data to flow from parent to child.
+- Props are read-only and help make 
+- components reusable.
 # 🚀 React Project Setup Guide
 
 ## 📦 1. Using Create React App 
