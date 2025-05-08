@@ -20,6 +20,14 @@ components.
    Once the user accesses the page and performs any kind of action on that page, they get an 
   almost-instant reaction from the page (think of Facebook, when you comment on someone's post)
   ![SRA](img/SPR.png)
+
+ # Virtual DOM & Rendering Flow
+ - Initial Render: React builds a Virtual DOM (VDOM) tree to represent the UI in memory.
+ - State Change: When state or props change, React creates a new VDOM tree.
+ - Diffing Algorithm: React compares the new VDOM with the previous one to detect 
+   changes.
+ - Efficient Update: Only the changed parts of the real DOM are updated, improving 
+   performance
 # Virtual DOM & Rendering Flow
   ![VDom](img/VDom.png)
   
