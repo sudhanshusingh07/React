@@ -7,7 +7,7 @@ virtualization of DOM.
 components.
 - It allows building more reusable and maintainable UI components with ease.
 
-  # 🚀 React Project Setup Guide
+# 🚀 React Project Setup Guide
 
 ## 📦 1. Using Create React App 
 
