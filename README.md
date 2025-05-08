@@ -19,6 +19,7 @@ components.
 
    Once the user accesses the page and performs any kind of action on that page, they get an 
   almost-instant reaction from the page (think of Facebook, when you comment on someone's post)
+  ![SRA](SPR.png)
   
 # 🚀 React Project Setup Guide
 
