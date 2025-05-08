@@ -38,7 +38,7 @@ components.
 - They allow data to flow from parent to child.
 - Props are read-only and help make 
 - components reusable.
-
+[Example](https://github.com/sudhanshusingh07/React/tree/main/props/src)
  ## PropTypes
 - PropTypes help validate the type of props a component receives.
 - Prevent bugs by catching incorrect or missing props.
