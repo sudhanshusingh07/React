@@ -20,7 +20,7 @@ components.
    Once the user accesses the page and performs any kind of action on that page, they get an 
   almost-instant reaction from the page (think of Facebook, when you comment on someone's post)
   ![SRA](img/SPR.png)
-
+# Virtual DOM & Rendering Flow
   ![VDom](img/VDom.png)
   
 # 🚀 React Project Setup Guide
