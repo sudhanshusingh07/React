@@ -12,6 +12,8 @@ components.
 
   Once the user accesses the page and performs any kind of action on that page, the page gets 
    reloaded with the changes that were done on the server-side.
+  ![Traditional Page Lifecycle](Traditional.png)
+
 
 - Single Page Application (SPA) Lifecycle
 
