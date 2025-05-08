@@ -6,6 +6,28 @@ virtualization of DOM.
 - It provides a declarative and efficient way to create interactive UI 
 components.
 - It allows building more reusable and maintainable UI components with ease.
+
+  # 🚀 React Project Setup Guide
+
+## 📦 1. Using Create React App 
+
+### 🛠 Steps:
+```bash
+npx create-react-app project-name
+cd project-name
+npm start 
+```
+
+## 📦 2. Using Vite
+
+### 🛠 Steps:
+```bash
+npm create vite@latest project-name -- --template react
+cd project-name
+npm install
+npm run dev
+```
+
   
 # Why React? SPA vs Traditional HTML
 - Traditional Page Lifecycle
@@ -44,23 +66,3 @@ components.
 - Prevent bugs by catching incorrect or missing props.
 - Makes it clear what props a component 
 - expects — helpful for teams and during maintenance.
-# 🚀 React Project Setup Guide
-
-## 📦 1. Using Create React App 
-
-### 🛠 Steps:
-```bash
-npx create-react-app project-name
-cd project-name
-npm start 
-```
-
-## 📦 2. Using Vite
-
-### 🛠 Steps:
-```bash
-npm create vite@latest project-name -- --template react
-cd project-name
-npm install
-npm run dev
-```
